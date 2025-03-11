@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-neverthrow-must-use",
+  "version": "0.1.0",
+  "description": "An ESLint plugin enforcing proper handling of neverthrow Result values.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["eslint", "eslint-plugin", "neverthrow", "functional-programming", "error-handling"],
+  "author": "Travis Whitton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmountain/eslint-plugin-neverthrow-must-use.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmountain/eslint-plugin-neverthrow-must-use/issues"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "^9.0.0",
+    "@typescript-eslint/parser": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.22.0"
+  }
+}
+
