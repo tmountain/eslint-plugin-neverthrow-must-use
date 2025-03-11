@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-neverthrow-must-use",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An ESLint plugin enforcing proper handling of neverthrow Result values.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "type": "module",
   "keywords": ["eslint", "eslint-plugin", "neverthrow", "functional-programming", "error-handling"],
   "author": "Travis Whitton",
