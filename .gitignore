@@ -13,8 +13,6 @@ pnpm-debug.log*
 
 # Compiled output
 dist/
-lib/**/*.js
-lib/**/*.js.map
 
 # Temporary files
 .DS_Store
